@@ -1,0 +1,15 @@
+{
+  "name": "caluculator",
+  "version": "1.0.0",
+  "description": "this is a caluculator",
+  "main": "caluculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishnu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}

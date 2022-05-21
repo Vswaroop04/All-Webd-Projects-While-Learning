@@ -1,0 +1,101 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+
+   font-family: cursive; 
+    margin: 0 auto 0 auto;
+}
+p{
+
+    font: optional;
+}
+p{
+    margin: 0 auto 0 auto;
+}
+.top-container {
+
+    background-color: lightblue;
+}
+
+
+.middle-container{
+
+  display: inline;
+}
+
+.bottom-container{
+
+}
+.mydp {
+    width: 200px;
+    height: 200px;
+}
+.javaimg{
+    width: 25%;
+    float: left;
+  margin-right: 100px;
+}
+.htmlimg{
+    width: 25%;
+   float: right;
+   margin-left: 30px;
+
+}
+
+.skills{
+   width: 50%;
+   margin: 50px auto 50px auto;
+   text-align: left;
+   
+   
+}
+
+.skill1a{
+  text-size-adjust: 140%;
+}
+.skill1b{
+    text-size-adjust: 140%;
+}
+.skill2a{
+    text-size-adjust: 140%;
+}
+.skill2b{
+    text-size-adjust: 140%;
+}
+
+.skill-row1{
+margin-bottom: 100px;
+width: 150%;
+}
+.skill-row2{
+    
+    width: 150%;
+    }
+
+.h3{
+ 
+    display: inline-block;
+
+}
+.h2{
+    display: inline-block;
+}
+.bottom-cloud{
+  
+    position: absolute;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    
+}
+
+.top-cloud{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    left: 200px;
+}

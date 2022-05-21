@@ -1,0 +1,26 @@
+    
+    body {
+
+        background-color: seashell;
+    }
+    h1{
+        color: olive;
+    }
+    h3{
+        color: olivedrab;
+        
+    }
+ 
+ hr{
+    border-style: none;
+
+    border-top-style: dotted;
+    width: 5%;
+    border-color: gray;
+    border-width: 5px;
+
+}
+    
+    
+    
+    
